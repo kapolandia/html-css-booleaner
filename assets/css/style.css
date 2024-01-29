@@ -31,6 +31,13 @@ h1{
     color: #808080;
 }
 
+h3{
+    font-size: 30px;
+    margin: 5px;
+    color: #808080;
+    margin-top: 40px;
+}
+
 .author{
     color: #4EA0FF;
 }
@@ -77,4 +84,22 @@ td{
 
 .highlight{
     background-color: yellow;
+}
+
+footer{
+    margin-bottom: 50px;
+}
+
+.footer-img-1{
+    background-image: url('../img/monitor.jpg');
+    background-size: cover;
+    width: 400px;
+    height: 300px;
+}
+
+.footer-img-2{
+    background-image: url('../img/graph.jpg');
+    background-size: cover;
+    width: 400px;
+    height: 300px;
 }
